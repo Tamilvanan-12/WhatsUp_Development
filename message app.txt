@@ -31,4 +31,5 @@ public class MessageApp {
             System.out.println("No new messages.");
         }
     }
+    Hide data
 }
